@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Prosper 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Builder | Problem Solver ⚡</b><br>
+  <b>Aspiring Software Engineer | Web3 Builder | Smart Contracts Engineer | Problem Solver ⚡</b><br>
   Turning ideas into fast, reliable software with Python, C++, and Rust.
 </p>
 
