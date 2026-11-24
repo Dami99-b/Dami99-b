@@ -3,7 +3,7 @@
 Computer Engineering student at the University of Lagos. I build backend and systems software (storage engines, market-data tooling, concurrent services) and do smart contract security research.
 
 - **Systems:** C++20 and Python. LSM-tree storage, order-book replay, async services that stay correct under retries and concurrent load.
-- **Security:** independent auditor on Code4rena and HackenProof (7 valid findings, including high severity); contributor to [OWASP Nettacker](https://github.com/OWASP/Nettacker).
+- **Security:** independent auditor on Code4rena and HackenProof (7 valid findings, including high severity); wrote a [detection module](https://github.com/OWASP/Nettacker/pull/1476) for [OWASP Nettacker](https://github.com/OWASP/Nettacker) covering the Next.js middleware auth bypass (CVE-2025-29927, on CISA's Known Exploited list).
 - **Competitive programming:** ICPC, top 4.5%.
 
 ### Selected projects
@@ -21,6 +21,6 @@ C++ · Python · Rust · TypeScript · FastAPI · PostgreSQL · Redis · NumPy /
 
 ### Contact
 
-[Portfolio](https://prosperokah.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prosper-okah-150672372) · [LeetCode](https://leetcode.com/u/damillz) · pro99dami@gmail.com
+[Portfolio](https://prosperokah.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prosper-okah-150672372) · [LeetCode](https://leetcode.com/u/damillz)
 
 Looking for software engineering and quant developer internships for 2027.
