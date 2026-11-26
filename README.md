@@ -13,11 +13,11 @@ Computer Engineering student at the University of Lagos. I build backend and sys
 | [MicroFS](https://github.com/Dami99-b/MicroFS) | LSM-tree key-value store in C++20 with a WAL, SSTables, Bloom filters, compaction and a TickStore API for market data | 1.2M reads/s at p99 1.3 µs; 27/27 tests under ASan/UBSan |
 | [lob-backtester](https://github.com/Dami99-b/lob-backtester) | Limit-order-book backtester on market-by-order data (ITCH 5.0), with latency, queue position, fees and Deflated Sharpe | Numba replay ~9M msgs/s |
 | [distributed-file-storage-engine](https://github.com/Dami99-b/distributed-file-storage-engine) | File storage backend: presigned S3 uploads, content-addressed dedup, background workers | streaming SHA-256 at ~130 MB/s, flat memory |
-| [async-idempotency-engine](https://github.com/Dami99-b/async-idempotency-engine) | Redis-backed idempotency layer for FastAPI with atomic locking and a circuit breaker | 1,000 concurrent duplicates → exactly one charge |
+| [async-idempotency-engine](https://github.com/Dami99-b/async-idempotency-engine) | Redis-backed idempotency layer for FastAPI with a circuit breaker, deployed to Kubernetes with Terraform and Ansible and monitored with Prometheus and Grafana | 1,000 concurrent duplicates → exactly one charge; 0 failed requests through a pod kill and a rolling restart |
 
 ### Tools
 
-C++ · Python · Rust · TypeScript · FastAPI · PostgreSQL · Redis · NumPy / Numba · Docker · Linux · GitHub Actions
+C++ · Python · Rust · TypeScript · FastAPI · PostgreSQL · Redis · NumPy / Numba · Docker · Kubernetes · Terraform · Ansible · Prometheus · Grafana · Linux · GitHub Actions
 
 ### Contact
 
